@@ -99,3 +99,7 @@ Our pre-trained ResNet-50 models can be downloaded as following:
 </tr>
 
 </tbody></table>
+
+
+### License
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
